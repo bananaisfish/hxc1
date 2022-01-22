@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pro 1</string>
+    <string name="daftar">Daftar</string>
+    <string name="masuk">Masuk</string>
+    <string name="reset_kata_sandi">Reset Kata Sandi</string>
+    <string name="daftar1">Daftar1</string>
+</resources>
